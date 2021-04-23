@@ -17,8 +17,8 @@ Meu Nome é André 👋
 
 ## 📫 Social:
 
-  <a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/andr%C3%A9-lacerda-9999a4173/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:andredesenvolvedorti@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
 ## 📱 Contact 
