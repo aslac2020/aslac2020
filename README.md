@@ -21,6 +21,3 @@ Meu Nome é André 👋
 <a href="mailto:andredesenvolvedorti@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
-## 📱 Contact 
-
-<a href="https://api.whatsapp.com/send?phone=5511966740577"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> &nbsp;
