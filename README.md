@@ -3,7 +3,7 @@ Meu Nome é André 👋
 
 👨‍💻 Analista Desenvolvedor
 👪 Sou casado, e tenho um filho</br>
-🎓 &nbsp; Cursando Bacharel em Tecnologia da Informação(2020-2022)</br>
+🎓 &nbsp; Formação - Bacharel em Tecnologia da Informação(2023)</br>
 💻 &nbsp; Curso Técnico em Desenvolvimento de Sistemas(2018-2019)</br>
 🎹 Sou músico: tecladista</br>
 😋 Minha comida favorita é: Lasanha.</br>
