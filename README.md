@@ -1,7 +1,7 @@
 ### Hello World🌎 
 Meu Nome é André 👋
 
-👨‍💻 Desenvolvedor Júnior
+👨‍💻 Analista Desenvolvedor
 👪 Sou casado, e tenho um filho</br>
 🎓 &nbsp; Cursando Bacharel em Tecnologia da Informação(2020-2022)</br>
 💻 &nbsp; Curso Técnico em Desenvolvimento de Sistemas(2018-2019)</br>
